@@ -25,7 +25,7 @@ Each script highlights a specific SQL concept or use case, making this folder a 
 - **Product_SalesOrder_LeftJoin.sql** → Demonstrates `LEFT JOIN` for product sales orders.  
 - **Yearly_ShipMethod_Freight_PIVOT.sql** → Uses `PIVOT` to analyze yearly freight costs by shipping method.  
 
-- [Address_Audit_Trigger.sql](./Queries/Address_Audit_Trigger.sql)  
+- [Address_Audit_Trigger.sql](./queries/Address_Audit_Trigger.sql)  
 - [Assign_RowNumber_Persons_ByCity.sql](./Queries/Assign_RowNumber_Persons_ByCity.sql)  
 - [Calculate_Net_Sales_With_CTE.sql](./Queries/Calculate_Net_Sales_With_CTE.sql)  
 - [CRUD_Operations.sql](./Queries/CRUD_Operations.sql)  
