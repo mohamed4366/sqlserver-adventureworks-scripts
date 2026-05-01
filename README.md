@@ -21,7 +21,7 @@ The purpose of this repository is to showcase **end-to-end BI workflow skills**:
 - [indexing_strategies.sql](./Indexes/indexing_strategies.sql)
 
 ### 2. Schema
-- [schema_setup.sql.sql](./schema/schema_setup.)
+- [schema_setup.sql](./Schema/schema_setup.sql)
 
 ### 3. Queries
 - [Address_Audit_Trigger.sql](./queries/Address_Audit_Trigger.sql)  
