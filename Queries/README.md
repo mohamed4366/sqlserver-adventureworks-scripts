@@ -19,7 +19,6 @@ Each script highlights a specific SQL concept or use case, making this folder a 
 - **CRUD_Operations.sql** → Demonstrates Create, Read, Update, and Delete operations.  
 - **Customer_Filter_Subquery_Exists.sql** → Filters customers using a correlated subquery with `EXISTS`.  
 - **Data_Filtering_And_Sorting.sql** → Shows practical filtering and sorting techniques.  
-- **HighValue_Customers_Report_GroupBy.sql** → Generates a report of high-value customers using `GROUP BY`.  
 - **IndexedView_Product_Description.sql** → Creates an indexed view for product descriptions.  
 - **OrderPriority_Classification_CASE_2011.sql** → Classifies orders using `CASE` expressions.  
 - **Product_Filtering_Procedure.sql** → Implements a stored procedure for product filtering.  
