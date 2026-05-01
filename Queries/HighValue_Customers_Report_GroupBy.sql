@@ -20,6 +20,6 @@ INNER JOIN Person.Person P
 ON P.BusinessEntityID = C.PersonID
 GROUP BY P.FirstName+' '+ ISNULL(P.MiddleName,'') +P.LastName,YEAR(orderdate)
 HAVING SUM(subtotal) > 100000 AND MIN(subtotal) > 30000
-ORDER BY Total_Orders DESC ;
+ORDER BY Total_Sales DESC ;
 
 
