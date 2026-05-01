@@ -37,10 +37,10 @@ The purpose of this repository is to showcase **end-to-end BI workflow skills**:
 - [Yearly_ShipMethod_Freight_PIVOT.sql](./Queries/Yearly_ShipMethod_Freight_PIVOT.sql)
 
 ### 4. Dashboards
-- [CustomerSales_MultiYear_Dashboard.pbix](./Dashbords/CustomerSales_MultiYear_Dashboard.pbix)  
-- [HighValue_Customers_Report_GroupBy.sql](./Dashbords/HighValue_Customers_Report_GroupBy.sql)
-- ![Dashboard Screenshot](Dashboard.png)  
-- ![Dashboard Screenshot](Dashboard1.png)  
+- [CustomerSales_MultiYear_Dashboard.pbix](./Dashboards/CustomerSales_MultiYear_Dashboard.pbix)  
+- [HighValue_Customers_Report_GroupBy.sql](./Dashboards/HighValue_Customers_Report_GroupBy.sql)
+- ![Dashboard Screenshot](Dashboards.png)  
+- ![Dashboard Screenshot](Dashboards1.png)  
 
 ---
 
