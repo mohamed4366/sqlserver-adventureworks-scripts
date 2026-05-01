@@ -39,8 +39,8 @@ The purpose of this repository is to showcase **end-to-end BI workflow skills**:
 ### 4. Dashboards
 - [CustomerSales_MultiYear_Dashboard.pbix](./Dashboards/CustomerSales_MultiYear_Dashboard.pbix)  
 - [HighValue_Customers_Report_GroupBy.sql](./Dashboards/HighValue_Customers_Report_GroupBy.sql)
-- ![Dashboard Screenshot](Dashboards.png)  
-- ![Dashboard Screenshot](Dashboards1.png)  
+- ![Dashboard Screenshot](./Dashboards/Dashboard.png)  
+- ![Dashboard Screenshot](./Dashboards/Dashboard1.png)  
 
 ---
 
