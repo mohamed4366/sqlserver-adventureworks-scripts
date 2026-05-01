@@ -13,7 +13,7 @@ Each script highlights a specific SQL concept or use case, making this folder a 
 ---
 
 ## 📑 Scripts Included
-- [Address_Audit_Trigger.sql](./queries/Address_Audit_Trigger.sql) → Implements a trigger to track changes in the Address table. 
+- [Address_Audit_Trigger.sql](./queries/Address_Audit_Trigger.sql)
 - **Assign_RowNumber_Persons_ByCity.sql** → Uses window functions to assign row numbers per city.  
 - **Calculate_Net_Sales_With_CTE.sql** → Calculates net sales per staff using a Common Table Expression (CTE).  
 - **CRUD_Operations.sql** → Demonstrates Create, Read, Update, and Delete operations.  
