@@ -18,4 +18,4 @@ To showcase the ability to:
 
 ## 📂 Related Files
 - [Open Power BI Dashboard File](../Dashboards/CustomerSales_MultiYear_Dashboard.pbix)  
-- [View Query Used for Dashboard](../queries/HighValue_Customers_Report_GroupBy.sql)
+- [View Query Used for Dashboard](../Dashboards/HighValue_Customers_Report_GroupBy.sql)
