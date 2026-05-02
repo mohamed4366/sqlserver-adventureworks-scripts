@@ -7,7 +7,7 @@ This repository contains SQL Server scripts and Power BI dashboards demonstratin
 - **Queries**: practical SQL scripts (triggers, procedures, joins, CTEs, filtering, CRUD operations).
 - **Dashboards**: Power BI visualizations with screenshots and related queries.
 
-The purpose of this repository is to showcase **end-to-end BI workflow skills**:
+# The purpose of this repository is to demonstrate my skills in SQL and Business Intelligence using the AdventureWorks database.
 - Writing efficient SQL queries.
 - Designing and indexing tables for performance.
 - Building interactive dashboards in Power BI.
