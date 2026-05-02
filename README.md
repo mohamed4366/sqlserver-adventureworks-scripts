@@ -1,4 +1,4 @@
-# SQL Server (AdventureWorks OLTP 2019) Scripts
+# SQL-PowerBI-AdventureWorks-Portfolio  
 
 ## 📌 Overview
 This repository contains SQL Server scripts and Power BI dashboards demonstrating:
