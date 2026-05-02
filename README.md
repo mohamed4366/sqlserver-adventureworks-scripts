@@ -47,4 +47,4 @@ The purpose of this repository is to demonstrate my skills in SQL and Business I
 ## 🧑‍💻 Author
 Created by **Mohamed Amin**  
 Bachelor’s Degree in Management Information Systems (MIS)  
-Focused on  Excel, SQL, Power BI, and BI workflow documentation.
+Focused on Excel, SQL, Power BI, and BI workflow documentation.
