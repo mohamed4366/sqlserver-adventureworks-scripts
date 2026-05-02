@@ -3,7 +3,7 @@
 This file contains an SQL script for creating a sample table, inserting test data, and applying two types of indexes (Clustered and Non-Clustered).
 
 ## File
-- **01_indexing_strategies.sql**  
+- [indexing_strategies.sql](../Indexes/indexing_strategies.sql)
 Includes:  
 1. Table structure.  
 2. Test data inserted into the table.  
