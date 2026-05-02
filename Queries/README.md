@@ -40,7 +40,7 @@ Each script highlights a specific SQL concept or use case, making this folder a 
 - [OrderPriority_Classification_CASE_2011.sql](./queries/OrderPriority_Classification_CASE_2011.sql)  
 - [Product_Filtering_Procedure.sql](./queries/Product_Filtering_Procedure.sql)  
 - [Product_SalesOrder_LeftJoin.sql](./queries/Product_SalesOrder_LeftJoin.sql)  
-- [Yearly_ShipMethod_Freight_PIVOT.sql](./queries/Yearly_ShipMethod_Freight_PIVOT.sql)  
+- [Yearly_ShipMethod_Freight_PIVOT.sql](./Queries/Yearly_ShipMethod_Freight_PIVOT.sql)  
 
 
 ## 🎯 Purpose
