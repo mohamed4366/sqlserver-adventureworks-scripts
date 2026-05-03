@@ -1,4 +1,4 @@
-# SQL-PowerBI-AdventureWorks-Portfolio  
+# SQL-PowerBI-AdventureWorks-Project
 
 ## 📌 Overview
 This repository contains SQL Server scripts and Power BI dashboards demonstrating:
