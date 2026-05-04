@@ -11,7 +11,6 @@ The purpose of this repository is to demonstrate my skills in SQL and Business I
 - Writing efficient SQL queries.
 - Designing and indexing tables for performance.
 - Linking databases to Power BI and creating dynamic, interactive dashboards and reports.
-- Documenting results with clear structure and screenshots.
 
 ---
 
