@@ -1,7 +1,7 @@
 # SQL-PowerBI-AdventureWorks-Project
 
 ## 📌 Overview
-This repository contains SQL Server scripts and Power BI dashboards demonstrating practical database and analytics skills.
+This repository contains SQL Server scripts and Power BI dashboards demonstrating practical database and analytics skills,
 It is organized into folders that highlight different aspects of the workflow :
 - **Indexes**: clustered and non-clustered indexing strategies.
 - **Schema**: database schema design and relationships.
