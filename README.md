@@ -8,6 +8,7 @@ It is organized into folders that highlight different aspects of the workflow :
 - **Queries**: practical SQL scripts (triggers, procedures, joins, CTEs, filtering, CRUD operations).
 - **Dashboards**: Power BI visualizations with screenshots and related queries.
 
+---
 
 The purpose of this repository is to demonstrate my skills in SQL and Business Intelligence using the AdventureWorks database, showcasing skills such as :
 - Writing efficient SQL queries.
