@@ -12,7 +12,7 @@ To showcase the ability to:
 - Build interactive dashboards for data visualization.
 - Document queries and workflows clearly for recruiters.
 
-## 📊 Screenshots
+## 📊 Screenshots Of Dashboard 
 - ![Dashboard Screenshot](Dashboard_Overview.png)
 - ![Dashboard Screenshot](Dashboard_Overview1.png)
 
