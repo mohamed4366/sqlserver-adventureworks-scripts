@@ -3,7 +3,7 @@
 This folder contains SQL scripts for creating tables and constraints.
 
 ## Files
-- [schema_setup.sql](../Schema/schema_setup.sql)→ Creates the main tables and constraints (Primary Key, Foreign Key, Check).  
+- [schema_setup.sql](../Schemas/schema_setup.sql)→ Creates the main tables and constraints (Primary Key, Foreign Key, Check).  
 
 ## Purpose
 To demonstrate database design skills in SQL Server by building a structured schema with tables and constraints, as part of a professional BI/Data Analyst portfolio.  
