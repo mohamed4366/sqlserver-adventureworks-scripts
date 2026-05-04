@@ -13,8 +13,8 @@ To showcase the ability to:
 - Document queries and workflows clearly for recruiters.
 
 ## 📊 Screenshots
-- ![Dashboard Screenshot](Dashboard Overview.png)
-- ![Dashboard Screenshot](Dashboard Overview1.png)
+- ![Dashboard Screenshot](DashboardOverview.png)
+- ![Dashboard Screenshot](DashboardOverview1.png)
 
 ## 📂 Related Files
 - [Open Power BI Dashboard File](../Dashboards/CustomerSales_MultiYear_Dashboard.pbix)  
