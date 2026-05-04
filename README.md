@@ -10,7 +10,7 @@ This repository contains SQL Server scripts and Power BI dashboards demonstratin
 The purpose of this repository is to demonstrate my skills in SQL and Business Intelligence using the AdventureWorks database, showcasing skills such as :
 - Writing efficient SQL queries.
 - Designing and indexing tables for performance.
-- Building interactive dashboards in Power BI.
+- Linking databases to Power BI and creating dynamic, interactive dashboards and reports.
 - Documenting results with clear structure and screenshots.
 
 ---
