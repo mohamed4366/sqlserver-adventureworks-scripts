@@ -23,7 +23,7 @@ The purpose of this repository is to demonstrate my skills in SQL and Business I
 - [indexing_strategies.sql](./Indexes/indexing_strategies.sql)
 
 ### 2. Schema
-- [schema_setup.sql](./Schema/schema_setup.sql)
+- [schema_setup.sql](./Schemas/schema_setup.sql)
 
 ### 3. Queries
 - [Address_Audit_Trigger.sql](./Queries/Address_Audit_Trigger.sql)  
