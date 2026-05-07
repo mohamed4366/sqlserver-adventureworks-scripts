@@ -42,7 +42,8 @@ The purpose of this repository is to demonstrate my skills in SQL and Business I
 - [CustomerSales_MultiYear_Dashboard.pbix](./Dashboards/CustomerSales_MultiYear_Dashboard.pbix)  
 - [HighValue_Customers_Report_GroupBy.sql](./Dashboards/HighValue_Customers_Report_GroupBy.sql)
 - ![Dashboard Screenshot](./Dashboards/Dashboard_Overview.png)  
-- ![Dashboard Screenshot](./Dashboards/Dashboard_Overview1.png)  
+- ![Dashboard Screenshot](./Dashboards/Dashboard_Overview1.png)
+- ![File Screenshot](./Dashboards/Dashboard_Overview2.png)  
 
 ---
 
