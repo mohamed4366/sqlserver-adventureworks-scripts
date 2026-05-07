@@ -10,7 +10,6 @@ This folder contains:
 To showcase the ability to:
 - Connect SQL Server databases to Power BI.
 - Build interactive dashboards for data visualization.
-- Document queries and workflows clearly for recruiters.
 
 ## 📊 Screenshots Of Dashboard 
 - ![Dashboard Screenshot](Dashboard_Overview.png)
