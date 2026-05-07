@@ -15,7 +15,7 @@ To showcase the ability to:
 ## 📊 Screenshots Of Dashboard 
 - ![Dashboard Screenshot](Dashboard_Overview.png)
 - ![Dashboard Screenshot](Dashboard_Overview1.png)
-- ![File Screenshot](Dashboard_Overview2.png). 
+- ![File Screenshot](Dashboard_Overview2.png)
 
 ## 📂 Related Files
 - [Download Power BI Dashboard File](../Dashboards/CustomerSales_MultiYear_Dashboard.pbix)  
