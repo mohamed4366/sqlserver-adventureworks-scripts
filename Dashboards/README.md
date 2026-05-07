@@ -4,7 +4,7 @@
 This folder contains:
 - **Power BI Dashboard File**: showing total customer sales across multiple years with interactive slicers and visuals.
 - **SQL Query**: the script used to build the dashboard.
-- **Dashboard Screenshot**: a preview image to quickly understand the dashboard without Downloading the `.pbix` file.
+- **Dashboard Screenshot**:  a visual preview enabling quick understanding of the dashboard, eliminating the need to download the .pbix file
 
 ## 🎯 Purpose
 To showcase the ability to:
